@@ -10,4 +10,7 @@ class Post < ActiveRecord::Base
     end
   end
 
+  def do_nothing
+  end
+
 end
